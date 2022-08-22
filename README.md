@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul Verma</h1>
 <h3 align="center">A passionate Penetration Tester and Bug Hunter from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberatull&label=Profile%20views&color=0e75b6&style=flat" alt="cyberatull" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberatull" alt="cyberatull" /></a> </p>
-
-
 <img align="right" alt="hacking" width="300" src="https://media2.giphy.com/media/fQZX2aoRC1Tqw/200w.webp?cid=ecf05e470ki8atzzllg8i4v8sq76lnv1fl7qqo53y3vd9gsx&rid=200w.webp&ct=g">
 
 <p align="left"> <a href="https://twitter.com/cyberatul" target="blank"><img src="https://img.shields.io/twitter/follow/cyberatul?logo=twitter&style=for-the-badge" alt="cyberatul" /></a> </p>
@@ -32,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberatull&show_icons=true&locale=en" alt="cyberatull" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberatull&" alt="cyberatull" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberatull" alt="cyberatull" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberatull&label=Profile%20views&color=0e75b6&style=flat" alt="cyberatull" /> </p>
